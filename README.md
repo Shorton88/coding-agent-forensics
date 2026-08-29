@@ -30,7 +30,7 @@ Or download the single file from Releases and open it. That is the whole install
 <!-- Replace with real captures before publishing. -->
 | Timeline and risk rail | Findings across sessions | File edit reconstruction |
 | --- | --- | --- |
-| `docs/img/timeline.png` | `docs/img/findings.png` |
+| `docs/timeline.png` | `docs/findings.png` |
 
 ## Supported agents
 
