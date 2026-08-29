@@ -20,7 +20,7 @@ Open it from `file://`, drag transcripts onto the window, and read. Everything i
 
 ```
 git clone https://github.com/Shorton88/coding-agent-forensics
-open coding-agent-forensics/agent-session-review.html
+open coding-agent-forensics/coding-agent-forensics.html
 ```
 
 Or download the single file from Releases and open it. That is the whole install.
