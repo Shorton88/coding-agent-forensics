@@ -28,8 +28,8 @@ Or download the single file from Releases and open it. That is the whole install
 ## Screenshots
 
 <!-- Replace with real captures before publishing. -->
-| Timeline and risk rail | Findings across sessions | File edit reconstruction |
-| --- | --- | --- |
+| Timeline and risk rail | Findings across sessions |
+| --- | --- |
 | `docs/timeline.png` | `docs/findings.png` |
 
 ## Supported agents
