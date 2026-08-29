@@ -32,8 +32,6 @@ Or download the single file from Releases and open it. That is the whole install
 | --- | --- |
 | <img width="1312" height="882" alt="image" src="https://github.com/user-attachments/assets/bd93ce4d-4cf2-4838-a3f6-8ad53c24bb8e" /> | <img width="1041" height="844" alt="image" src="https://github.com/user-attachments/assets/b4cfc139-5cde-4eb1-9824-812062e02a39" /> | 
 
-<img width="2592" height="1696" alt="AEE483E6-7B05-43CE-AB41-D7C163D00ADB_1_102_o" src="https://github.com/user-attachments/assets/0e234615-b41f-472d-bcf3-5d7a166d36cb" />
-
 
 ## Supported agents
 
