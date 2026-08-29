@@ -30,7 +30,7 @@ Or download the single file from Releases and open it. That is the whole install
 <!-- Replace with real captures before publishing. -->
 | Timeline and risk rail | Findings across sessions |
 | --- | --- |
-| <img width="1312" height="882" alt="image" src="https://github.com/user-attachments/assets/bd93ce4d-4cf2-4838-a3f6-8ad53c24bb8e" /> | <img width="1041" height="844" alt="image" src="https://github.com/user-attachments/assets/b4cfc139-5cde-4eb1-9824-812062e02a39" /> | 
+| ![Timeline](docs/timeline.png) | ![Findings](docs/findings.png) |
 
 
 ## Supported agents
