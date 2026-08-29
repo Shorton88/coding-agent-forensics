@@ -4,6 +4,8 @@
 
 Drop in sessions from Claude Code, Codex, Copilot, Cursor, Gemini, Cline, Goose, Aider, OpenCode, Hermes, or DeepSeek Harness and get a searchable timeline, reconstructed file diffs, and rule-based flags for credentials, exfiltration, and git history rewrites. Nothing leaves the browser.
 
+Try it: [**live demo**](
+https://shorton88.github.io/coding-agent-forensics/) — same tool, running in your browser. Files are still processed locally and nothing is uploaded. For actual casework, download the release asset.
 ---
 
 ## Why
